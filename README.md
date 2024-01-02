@@ -5,5 +5,4 @@ This is a model created using the libraries numpy and pandas along with matplotl
 
 ## Dataset
 The dataset used in this project is a toy dataset containing information about students.
-
 This project is created in Google Collab.
